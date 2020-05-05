@@ -1,0 +1,11 @@
+int
+float
+char
+bool
+false
+true
+if
+else
+while
+for
+return

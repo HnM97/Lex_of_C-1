@@ -1,0 +1,9 @@
++ ADD
+- SUB
+/ DIV
+* MUL
+= ASSIGN
+< LES
+> GRT
+& BITAND
+| BITOR

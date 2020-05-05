@@ -1,0 +1,38 @@
+                char     0     0
+                  WS     0     4
+                  ID     0     0: c                   
+                  WS     0     6
+              ASSIGN     0     7
+                  WS     0     8
+          APOSTROPHE     0     9
+                  ID     0     0: f                   
+          APOSTROPHE     0    11
+           SEMICOLON     0    12
+                 int     0     0
+                  WS     1     3
+                  ID     0     0: a                   
+                  WS     1     5
+              ASSIGN     1     6
+                  WS     1     7
+             INTEGER     0     0: 12356     
+                  WS     1    13
+                 ADD     1    14
+                  WS     1    15
+             INTEGER     0     0: 3         
+           SEMICOLON     1    17
+                 int     0     0
+                  WS     2     3
+                  ID     0     0: casdf_df            
+                  WS     2    12
+              ASSIGN     2    13
+                  WS     2    14
+             INTEGER     0     0: 23423     
+           SEMICOLON     2    20
+               float     0     0
+                  WS     3     5
+                  ID     0     0: f                   
+                  WS     3     7
+              ASSIGN     3     8
+                  WS     3     9
+               FLOAT     0     0: 3.232523  
+           SEMICOLON     3    23
