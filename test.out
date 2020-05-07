@@ -36,3 +36,11 @@
                   WS     3     9
                FLOAT     0     0: 3.232523  
            SEMICOLON     3    23
+                 int     0     0
+                  WS     4     3
+                  ID     0     0: b                   
+                  WS     4     5
+              ASSIGN     4     6
+                  WS     4     7
+             INTEGER     0     0: -123      
+           SEMICOLON     4    12

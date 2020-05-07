@@ -88,6 +88,10 @@ void lex::analyze(string fn) {
                 bool fl = false;
                 if(i + 1 < n) {
                     char lookahead = in[i + 1];
+                    if(c == '-' && isdigit(lookahead)) {
+                        tok += c;
+                        continue;
+                    }
                     struct comp {
                         char a, b;
                         string tt;
