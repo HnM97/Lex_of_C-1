@@ -45,7 +45,7 @@ lex::lex() {
 
 void lex::init() {
     lexeme.clear();
-    line = -1;
+    line = 0;
 }
 
 void lex::analyze(string fn) {
